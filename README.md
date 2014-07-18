@@ -128,3 +128,13 @@ limitedEvents.on( 'death', function () {
 ```
 
 If you later attempt to fire or add a handler to an event that wasn't in the initial array, an error will be thrown.
+
+## Get it
+
+Available via [npm](https://www.npmjs.org/):
+
+```
+npm install stupidly-simple-events
+```
+
+or just download `events.min.js`.
